@@ -12,8 +12,7 @@ I'm a B.Tech Mechanical Engineer who moved into Data Science. I turn raw data in
 |-----|------|
 |Databases & SQL ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 |PostgreSQL, MySQL, SQLite3, window fucntions, CTEs, Joins, schema design, Indexing, ETL & ELT|
-|Python ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)|Pandas![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-, Numpy, Seaborne, Matplotlib, Scipy, Scikit-Learn![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white), Stats, OOPs|
+|Python ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)|Pandas![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white), Numpy, Seaborne, Matplotlib, Scipy, Scikit-Learn![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white), Stats, OOPs|
 |BI & Reporting|Power BI (DAX, Power Query, Data modeling) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black), Excel (Power Query, Power Pivot, XLOOKUP)|
 |Analytics & Stats|EDA, data cleaning, hypothesis testing (t-test, chi-square, ANOVA), storytelling|
 
